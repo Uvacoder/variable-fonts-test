@@ -9,7 +9,6 @@
     "csslint": "stylelint src/**/*.css",
     "lint": "npm run jslint && npm run csslint",
     "start": "gulp serve",
-    "build": "webpack --mode production",
     "publish": "npm run build && node publish.js"
   },
   "author": "yoksel",

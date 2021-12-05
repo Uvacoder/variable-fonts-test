@@ -4,7 +4,8 @@ const fontsItems = [
         url: 'assets/fonts/AdobeVFPrototype/AdobeVFPrototype.ttf',
         variants: [
             'Weight',
-            'Contrast'
+            'Contrast',
+            'Width'
         ]
     },
     {
